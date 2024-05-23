@@ -14,7 +14,7 @@ ScrollReveal().reveal(".nav__links li", { ...scrollRevealOption, origin: "top", 
 ScrollReveal().reveal(".socials a", { ...scrollRevealOption, duration: 1000, interval: 500, delay: 500 });
 ScrollReveal().reveal(".contact", { ...scrollRevealOption, duration: 1000, interval: 500, delay: 500 });
 ScrollReveal().reveal(".contact a", { ...scrollRevealOption, interval: 500, delay: 500 });
-ScrollReveal().reveal(".photo", { ...scrollRevealOption, origin: "top", delay: 2500 });
+ScrollReveal().reveal(".photo", { ...scrollRevealOption, origin: "top", delay: 600 });
 ScrollReveal().reveal(".about h4", { ...scrollRevealOption, origin: "bottom", delay: 100 });
 ScrollReveal().reveal(".about h1", { ...scrollRevealOption, origin: "bottom", delay: 300 });
 ScrollReveal().reveal(".about img", { ...scrollRevealOption, origin: "bottom", delay: 500 });
