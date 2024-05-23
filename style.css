@@ -488,7 +488,7 @@ h1 {
   color: var(--white);
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   .photo {
     display: grid;
     place-content: center;
